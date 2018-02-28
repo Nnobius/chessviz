@@ -1,2 +1,2 @@
 all:
-	gcc -Wall -o ñhess ñhess.c
+	gcc -Wall -o chess chess.c
